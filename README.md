@@ -1,6 +1,7 @@
 # hierarchical-teaching-algorithm 
 
 To be able to run the code and algorithm several dependencies need to be installed:
+
 Latest Python version: https://www.python.org/
 
 For the naoqi package:
@@ -18,7 +19,7 @@ https://socialrobotics.atlassian.net/wiki/spaces/CBSR/pages/260276225/Local+Inst
 # To run the system on your local machine with a NAO robot do the following: 
 1 - Run Docker then the robot-installer.jar and fill in the robots ip address
 
-2 - Open (dont run!) the main_chaining_module.py file
+2 - Open (dont run!) the main_chaining_module.py file in a Python IDE of your choice (eg. VS code, Pycharm, Atom)
 
 3 - Change the variable self.robot_ip in the class constructor to your current robots IP address
 
