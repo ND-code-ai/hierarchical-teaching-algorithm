@@ -1,0 +1,1 @@
+{"leftarmfront": "LArmFront", "rightarmfront": "RArmFront", "botharmsfront": "ArmsFront", "leftarmside": "LArmSide", "rightarmside": "RArmSide", "botharmsside": "ArmsSide", "walkstraight": "WalkS", "turnleft": "TurnL", "turnright": "TurnR", "gretzky": ["walkstraight", "leftarmside"], "onestepforward": ["walkstraight", "turnright"]}
