@@ -11,7 +11,7 @@ Naoqi Python SDK (Python 2.7 only)
 http://doc.aldebaran.com/2-5/dev/python/install_guide.html
 
 SIC installation:
-Carefully follow installation instructions, all dependencies are required
+Carefully follow installation instructions, all dependencies are required (use requirements.txt in the fork!)
 https://socialrobotics.atlassian.net/wiki/spaces/CBSR/pages/260276225/Local+Installation#Installation
 
 # The system currently only works with NAO robots
