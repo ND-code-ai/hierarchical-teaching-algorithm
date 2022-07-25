@@ -17,10 +17,15 @@ https://socialrobotics.atlassian.net/wiki/spaces/CBSR/pages/260276225/Local+Inst
 
 # To run the system on your local machine with a NAO robot do the following: 
 1 - Run Docker then the robot-installer.jar and fill in the robots ip address
+
 2 - Open (dont run!) the main_chaining_module.py file
+
 3 - Change the variable self.robot_ip in the class constructor to your current robots IP address
+
 4 - Check if you motionkey file path is correct (for MacOS possibly remove the 'r' operator before the string)
+
 5 - Run the main_chaining_module file
+
 6 - Check all devices (camera not necessary)
 
 
